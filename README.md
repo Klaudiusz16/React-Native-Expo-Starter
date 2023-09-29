@@ -29,13 +29,10 @@ To use this starter kit, make sure you have the following dependencies installed
 To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install dependencies using `npm install`.
+2. Install dependencies using `yarn install`.
 3. Run the project using `expo start`.
 
 ## Contributions
 
 We welcome contributions! If you have ideas for improving this starter kit, please create a pull request or open an issue.
 
-## License
-
-This project is available under the MIT License. For more details, see the [LICENSE](LICENSE) file.
