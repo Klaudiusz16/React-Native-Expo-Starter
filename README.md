@@ -1,32 +1,41 @@
-React Native Expo Starter Kit
+# React Native Expo Starter Kit
 
 This starter kit serves as an excellent starting point for creating mobile applications using React Native and Expo. It comes pre-configured with tools and libraries to help you kickstart your project.
-Required Dependencies
+
+## Required Dependencies
 
 To use this starter kit, make sure you have the following dependencies installed:
 
-    React Native: 0.72.5
-    Expo: 49.0.13
-    Other libraries and tools can be found in the package.json file.
+- **React Native**: 0.72.5
+- **Expo**: 49.0.13
+- Other libraries and tools can be found in the `package.json` file.
 
-Features
+## Features
 
-    React Navigation: Introduces navigation in your application using @react-navigation/native and @react-navigation/native-stack.
+- **React Navigation**: Introduces navigation in your application using `@react-navigation/native` and `@react-navigation/native-stack`.
 
-    Redux Toolkit: Simplifies state management using @reduxjs/toolkit and react-redux.
+- **Redux Toolkit**: Simplifies state management using `@reduxjs/toolkit` and `react-redux`.
 
-    UI Components: Utilize pre-made UI components from @gluestack-ui/themed and @rneui/themed that are tailored for your project.
+- **UI Components**: Utilize pre-made UI components from `@gluestack-ui/themed` and `@rneui/themed` that are tailored for your project.
 
-    Tailwind CSS: Easily customize the styling of your application with tailwindcss.
+- **Tailwind CSS**: Easily customize the styling of your application with `tailwindcss`.
 
-    Nativewind: Manage React Native styling effortlessly with nativewind.
+- **Nativewind**: Manage React Native styling effortlessly with `nativewind`.
 
-    Expo Plugins: Take advantage of various useful Expo plugins such as expo-image, expo-navigation-bar, expo-splash-screen, and many more.
+- **Expo Plugins**: Take advantage of various useful Expo plugins such as `expo-image`, `expo-navigation-bar`, `expo-splash-screen`, and many more.
 
-Installation
+## Installation
 
 To get started with the project, follow these steps:
 
-    Clone the repository to your local machine.
-    Install dependencies using yarn install.
-    Run the project using expo start.
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install`.
+3. Run the project using `expo start`.
+
+## Contributions
+
+We welcome contributions! If you have ideas for improving this starter kit, please create a pull request or open an issue.
+
+## License
+
+This project is available under the MIT License. For more details, see the [LICENSE](LICENSE) file.
