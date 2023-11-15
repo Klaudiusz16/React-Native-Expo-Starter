@@ -32,7 +32,4 @@ To get started with the project, follow these steps:
 2. Install dependencies using `yarn install`.
 3. Run the project using `expo start`.
 
-## Contributions
-
-We welcome contributions! If you have ideas for improving this starter kit, please create a pull request or open an issue.
 
